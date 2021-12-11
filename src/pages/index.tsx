@@ -1,11 +1,13 @@
 import Head from 'next/head';
 import Image from 'next/image';
+import Title from '../components/atoms/Title';
 import styles from '../styles/Home.module.css';
 import type { NextPage } from 'next';
 
 const Home: NextPage = () => {
     return (
         <div className={styles.container}>
+            <Title title={'Hello'} />
             <Head>
                 <title>Create Next App 👍</title>
                 <meta
