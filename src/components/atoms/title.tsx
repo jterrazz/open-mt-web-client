@@ -1,6 +1,7 @@
 interface TitleProps {
     title: string;
     subtitle?: string;
+    size?: 'small' | 'medium' | 'large';
 }
 
 const Title = ({ title, subtitle }: TitleProps) => (

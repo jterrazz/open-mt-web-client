@@ -1,3 +1,9 @@
+# My Open Market - Client
+
+> A marketplace for the people by the people. Open, social and direct.
+
+Find out more about us on [our new MyOpenMarket blog](https://blog.myopen.market/) !
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started

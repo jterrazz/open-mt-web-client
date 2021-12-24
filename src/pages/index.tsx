@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import Title from '../components/atoms/Title';
+import Title from '../components/atoms/title';
 import styles from '../styles/Home.module.css';
 import type { NextPage } from 'next';
 
