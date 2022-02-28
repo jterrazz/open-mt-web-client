@@ -1,18 +1,20 @@
-# My Open Market - Client
+# open.mt - Open Market Client
 
 > A marketplace for the people by the people. Open, social and direct.
 
-Find out more about us on [our new MyOpenMarket blog](https://blog.myopen.market/) !
+Find out more about us on [our blog](https://blog.myopen.market/) !
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Get started
 
-## Getting Started
+### 🌱 Dependencies
 
-First, run the development server:
+```sh
+node 16
+yarn
+```
 
-```bash
-npm run dev
-# or
+### 🍋 Start the project !
+```sh
 yarn dev
 ```
 
@@ -20,9 +22,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+### 🏗 Testing your code
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+The **`jest` framework** is used to run both **integration** (`/tests/e2e/*.test.ts`) and **unit** tests (`__tests__/*.test.ts`).
 
 ## Learn More
 
@@ -33,8 +35,12 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+***open.mt - Open Market Wiki***
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-%2305A8AA.svg?&style=for-the-badge&logo=safari&logoColor=white" />](https://jterrazz.com)
+
+[<img align="left" alt="medium" src="https://img.shields.io/badge/blog-%23353535.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://blog.jterrazz.com)
+
+[<img align="left" alt="github" src="https://img.shields.io/badge/github-%23284B63.svg?&style=for-the-badge&logo=github&logoColor=white" />](https://github.com/myonewallet)
